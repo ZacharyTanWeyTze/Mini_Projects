@@ -24,10 +24,10 @@ Tutorials
 
 - Regex
   - https://regexlearn.com/learn/regex101 | Completed AND To Be Reviewed
-  - https://regexone.com | Not Completed AND To Be Reviewed
-  - Regular Expressions (RegEx) in 100 Seconds: https://www.youtube.com/watch?v=sXQxhojSdZM
-  - [5 Minute Tutorial] Regular Expressions (Regex) in Python: https://www.youtube.com/watch?v=UQQsYXa1EHs
-  - Regular Expressions (Regex) - Visually Explained: https://www.youtube.com/watch?v=V_DzcyGTXW0
+  - https://regexone.com | Completed AND To Be Reviewed
+  - Regular Expressions (RegEx) in 100 Seconds: https://www.youtube.com/watch?v=sXQxhojSdZM | Watched AND To Be Reviewed
+  - [5 Minute Tutorial] Regular Expressions (Regex) in Python: https://www.youtube.com/watch?v=UQQsYXa1EHs | Not Completed AND To Be Reviewed
+  - Regular Expressions (Regex) - Visually Explained: https://www.youtube.com/watch?v=V_DzcyGTXW0 | Not Completed AND To Be Reviewed
 
 - Excel
   - XLOOKUP
