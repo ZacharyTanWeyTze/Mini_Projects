@@ -34,14 +34,5 @@ Tutorials
 
 - AI
   
-- Automation/DPA/RPA/
-  - Power Automate Tutorial for Beginners: https://www.youtube.com/watch?v=dDO4Y4aDYXw | Watched AND Reviewed
-  - Learn to Use Power Automate with Examples | Create Bulk PDF Files | Planner to Outlook: https://www.youtube.com/watch?v=SUsik0FGzI0 | Watched AND Reviewed
-  - Power Automate: Tutorial for Beginners: https://www.youtube.com/watch?v=in09HzquU5M | Watched AND To Be Reviewed
-  - Microsoft Power Automate for Beginners: Start Automating Today!: https://www.youtube.com/watch?v=f1lTMzWygTA | Watched AND To Be Reviewed
-
-| Video Title | Link | Status |
-| :--- | :--- | :---: |
-| **Power Automate Tutorial for Beginners** | [Watch Video](https://www.youtube.com/watch?v=dDO4Y4aDYXw) | Watched AND Reviewed |
-| **Learn to Use Power Automate with Examples \| Create Bulk PDF Files \| Planner to Outlook** | [Watch Video](https://www.youtube.com/watch?v=SUsik0FGzI0) | Watched AND Reviewed |
-| **Power Automate: Tutorial for Beginners** | [Watch Video](https://www.youtube.com/watch?v=in09HzquU5M) | Watched AND To Be Reviewed |
+- Automation/DPA/RPA
+  - See Automation_Projects_Templates repo
