@@ -10,7 +10,7 @@ Mini Projects
 Tutorials
 - Python General
   - TBA python 10 min beginner
-  - Indently 10 min Python
+  - Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) https://www.youtube.com/watch?v=fWjsdhR3z3c | Completed AND To Be Reviewed
   - TBA learn numpy 5 min
   - Codedex: 
 
